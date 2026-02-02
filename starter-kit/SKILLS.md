@@ -2,10 +2,6 @@
 name: project-starter
 description: Analiza proyectos y explica cómo levantarlos. Usar cuando pregunten
   "cómo inicializo el proyecto", "setup", "cómo inicio", "qué necesito para levantar".
-license: MIT
-metadata:
-  author: Deuna
-  tags: starter-kit, init, start
 ---
 
 # Project Starter
